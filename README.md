@@ -20,7 +20,7 @@
 
 ## Languages/Tools that I am currently studying/working with:
 
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[!Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 [![Gustavo-Costa-Code GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Costa-Code&theme=merko)](https://github.com/Gustavo-Costa-Code/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Costa-Code&theme=merko)](https://github.com/Gustavo-Costa-Code/github-readme-stats)
