@@ -21,5 +21,12 @@
 [![Gustavo-Costa-Code GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Costa-Code&theme=merko)](https://github.com/Gustavo-Costa-Code/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Costa-Code&layout=compact)](https://github.com/Gustavo-Costa-Code/github-readme-stats)
 
+<a href="https://github.com/Gustavo-Costa-Code/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Costa-Code&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Gustavo-Costa-Code/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Costa-Code&repo=convoychat" />
+</a>
+
 
 - Thanks for visiting.
