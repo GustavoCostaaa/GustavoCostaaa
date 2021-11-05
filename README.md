@@ -12,7 +12,7 @@
 
 :outbox_tray: 2021 Goals: Learn Front-End Development as much as possible.
 
-:mailbox: If you want to talk to me, send me an e-mail (gustavocostacode@gmail.com).
+:mailbox: If you want to talk to me, send me an e-mail gustavocostacode@gmail.com.
 
 ## About me
 
