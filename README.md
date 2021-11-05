@@ -12,6 +12,8 @@
 
 :outbox_tray: 2021 Goals: Learn Front-End Development as much as possible.
 
+:mailbox: If you want to talk to me, send me an e-mail (gustavocostacode@gmail.com).
+
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gustavo-Costa-Code)](https://github.com/Gustavo-Costa-Code)
