@@ -4,7 +4,7 @@
 
 ## I'm Gustavo Costa!
 
- 
+## About me:
 
 :computer::books: Currently I am studying Front-End Development, but I intend to learn the Back-End too.
 
@@ -12,7 +12,7 @@
 
 :outbox_tray: 2021 Goals: Learn Front-End Development as much as possible.
 
-## About me
+## My social medias:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-costa-da-silva-3a3a68212/)](https://www.linkedin.com/in/gustavo-costa-da-silva-3a3a68212/)
 
