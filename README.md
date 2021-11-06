@@ -8,7 +8,7 @@
 
 :computer::books: Currently I am studying Front-End Development, but I intend to learn the Back-End too.
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil, Porto Alegre.
 
 :outbox_tray: 2021 Goals: Learn Front-End Development as much as possible.
 
