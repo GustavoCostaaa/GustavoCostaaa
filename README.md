@@ -19,7 +19,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_gustavo.costaa_/)](https://www.instagram.com/_gustavo.costaa_/)
 
 ## Languages/Tools that I am currently studying/working with:
-<div style="center">
+<div style="margin:auto">
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
