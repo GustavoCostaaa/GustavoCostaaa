@@ -19,7 +19,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_gustavo.costaa_/)](https://www.instagram.com/_gustavo.costaa_/)
 
 ## Languages/Tools that I am currently studying/working with:
-
+<div style="center">
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+</div>
 [![Gustavo-Costa-Code GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCostaS&theme=merko)](https://github.com/GustavoCostaS/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCostaS&theme=merko)](https://github.com/GustavoCostaS/github-readme-stats)
 
