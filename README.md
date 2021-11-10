@@ -37,6 +37,6 @@
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [![GustavoCostaS GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCostaS&theme=merko)](https://github.com/GustavoCostaS/github-readme-stats)
-[![GustavoCostaS](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCostaS&hide=html&layout=compact=true&theme=merko)](https://github.com/GustavoCostaS/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCostaS)](https://github.com/GustavoCostaS/github-readme-stats)
 
 ### Enjoy!!:heart:
