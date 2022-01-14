@@ -1,8 +1,4 @@
-# "Hello World!"
-
- 
-
-## I'm Gustavo Costa!
+# "Hello World!", I'm Gustavo Costa!
 
 ## About me:
 
