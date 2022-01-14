@@ -2,17 +2,15 @@
 
 ## About me:
 
-:computer::books: Currently I am studying Front-End Development, but I intend to learn the Back-End too.
+:computer::books: Currently I am studying Front-End Development.
 
-:house_with_garden: I’m from Brazil, Porto Alegre.
+:house_with_garden: I’m from Brazil, Canoas.
 
-:outbox_tray: 2021 Goals: Learn Front-End Development as much as possible.
+:outbox_tray: 2022 Goals: Learn Front-End and then learn Back-End
 
 ## My social medias:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-costa-da-silva-3a3a68212/)](https://www.linkedin.com/in/gustavo-costa-da-silva-3a3a68212/)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_gustavo.costaa_/)](https://www.instagram.com/_gustavo.costaa_/)
 
 ## Languages/Tools that I am currently studying/working with:
 
