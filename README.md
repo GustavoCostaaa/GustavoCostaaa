@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil, Canoas.
 
-:outbox_tray: 2022 Goals: Learn Front-End and then learn Back-End
+:outbox_tray: 2022 Goals: Learn Back-End
 
 ## Some of my stats:
 
