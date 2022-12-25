@@ -6,8 +6,7 @@
 
 :house_with_garden: I’m from Brazil, Canoas.
 
-:outbox_tray: 2022 Goals: Learn Back-End
-
+:outbox_tray: 2023 Goals: Learn as much Front-End as possible.
 ## Some of my stats:
 
 [![GustavoCostaS GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Costa-Code&theme=dark)](https://github.com/Gustavo-Costa-Code/github-readme-stats)
