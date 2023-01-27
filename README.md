@@ -7,7 +7,5 @@
 :house_with_garden: I’m from Brazil, Canoas.
 
 ## Some of my stats:
-<div align=center>
 ![Gustavo Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-costa-code&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-costa-code&theme=merko)](https://github.com/gustavo-costa-code/github-readme-stats)
-</div>
