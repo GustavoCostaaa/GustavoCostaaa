@@ -1,8 +1,6 @@
 <h1 align="center">"Hello World!", I'm Gustavo Costa</h1>
 <h3 align="center">I'm a frontend student from Brazil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo-costa-code&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo-costa-code" /> </p>
-
 - 🌱 I’m currently learning **bootstrap**
 
 - 📫 How to reach me **gustavocostasilva833@gmail.com**
