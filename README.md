@@ -1,7 +1,7 @@
 <h1 align="center">"Hello World!", I'm Gustavo Costa</h1>
 <h3 align="center">I'm a frontend student from Brazil.</h3>
 
-- 🌱 I’m currently learning **bootstrap**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **gustavocostasilva833@gmail.com**
 
