@@ -12,10 +12,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoCostaaa&show_icons=true&locale=en" alt="gustavo-costa-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoCostaaa&show_icons=true&locale=en" alt="gucostaaa" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCostaaa&show_icons=true&locale=en&layout=compact" alt="gustavo-costa-code" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCostaaa&show_icons=true&locale=en&layout=compact" alt="gucostaaa" /></p>
 
 
