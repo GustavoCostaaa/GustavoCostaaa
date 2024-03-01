@@ -12,9 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoCostaaa&show_icons=true&locale=en" alt="gustavo-costa-code" /></p>
 
