@@ -22,8 +22,8 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-costa-code&show_icons=true&locale=en" alt="gustavo-costa-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoCostaaa&show_icons=true&locale=en" alt="gustavo-costa-code" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-costa-code&show_icons=true&locale=en&layout=compact" alt="gustavo-costa-code" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoCostaaa&show_icons=true&locale=en&layout=compact" alt="gustavo-costa-code" /></p>
 
 
