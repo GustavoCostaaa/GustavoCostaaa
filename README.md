@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoCostaaa&show_icons=true&locale=en" alt="gucostaaa" /></p>
 
